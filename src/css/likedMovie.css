@@ -1,0 +1,20 @@
+.liked_movie_container {
+    max-width: 100%;
+    display: flex;
+    margin-bottom: 30px;
+    align-items: center;
+    color: #fff;
+}
+.liked_movie_container img {
+    max-width: 200px;
+}
+.liked-movie-info {
+    margin-left: 10px;
+}
+.liked-movie-info h1{
+    border-bottom: 1px solid white;
+}
+.red{
+    color: rgb(226, 43, 43);
+    margin-top: 5px;
+}
